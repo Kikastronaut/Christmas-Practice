@@ -1,0 +1,2 @@
+class HarryController < ApplicationController
+end
