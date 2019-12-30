@@ -1,0 +1,2 @@
+class VernonController < ApplicationController
+end
